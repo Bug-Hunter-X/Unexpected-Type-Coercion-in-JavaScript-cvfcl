@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript bug related to type coercion.  The `foo` function is intended to add two numbers, but due to JavaScript's dynamic typing, passing a number and a string results in string concatenation. The solution shows how to explicitly type check or convert inputs to ensure the correct behavior.
